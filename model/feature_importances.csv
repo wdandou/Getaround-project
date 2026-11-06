@@ -1,0 +1,16 @@
+,0
+num__engine_power,0.47604194320531534
+num__mileage,0.26169321330576917
+remainder__has_gps,0.0488762621861684
+remainder__automatic_car,0.03942925427932095
+remainder__has_getaround_connect,0.034569733738118724
+cat__car_type_estate,0.021583940148734767
+cat__fuel_petrol,0.013321990681255287
+cat__car_type_suv,0.013184286596028326
+cat__model_key_Mitsubishi,0.012627060253056674
+cat__model_key_Citroën,0.008389307533704309
+cat__model_key_BMW,0.006350004709532073
+remainder__has_speed_regulator,0.00609665357326293
+cat__model_key_Nissan,0.005602008917967131
+remainder__private_parking_available,0.005412644603913755
+cat__model_key_Renault,0.004933120408852642
